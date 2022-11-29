@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "title": "Iphone",
+      "description": "lalalalalalalal",
+      "price": 800,
+      "image": "https://www.istore.co.za/media/catalog/product/i/p/iphone_14_pro_max_deep_purple-6_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=300&width=300&canvas=300:300",
+      "id": 1
+    },
+    {
+      "title": "note",
+      "description": "super laptop",
+      "price": "25000",
+      "image": "https://www.cnet.com/a/img/resize/33d64d1623f1dc132165ef8393fbe5e7be9b763a/hub/2021/10/28/e92175f9-bcbf-4361-9c4a-3bfaf656ac27/hp-pavilion-aero-13-09.jpg?auto=webp&fit=crop&height=528&width=940",
+      "id": 2
+    }
+  ]
+}
